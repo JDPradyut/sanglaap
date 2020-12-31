@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#514F4F</color>
+    <color name="colorPrimaryDark">#514F4F</color>
+    <color name="colorAccent">#161918</color>
+    <color name="common_border_color">#121111</color>
+    <color name="round_green">#0FC516</color>
+    <color name="white">#F9FAF9</color>
+
+    <color name="send">#FFEB3B</color>
+    <color name="recieve">#F9FAF9</color>
+    <color name="grey_100">#F5F5F5</color>
+    <color name="grey_300">#E0E0E0</color>
+    <color name="grey_500">#9E9E9E</color>
+
+</resources>
